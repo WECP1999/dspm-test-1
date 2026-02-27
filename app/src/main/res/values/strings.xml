@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">ExamenParcial1</string>
+    <string name="student_average_title">Promedio de Estudiante</string>
+    <string name="student_name_hint">Nombre del estudiante</string>
+    <string name="grade_1_hint">Nota 1</string>
+    <string name="grade_2_hint">Nota 2</string>
+    <string name="grade_3_hint">Nota 3</string>
+    <string name="grade_4_hint">Nota 4</string>
+    <string name="grade_5_hint">Nota 5</string>
+    <string name="calculate_button">Calcular</string>
+    <string name="back_to_menu">Back to Menu</string>
+    <string name="status_approved">Aprobado</string>
+    <string name="status_failed">Reprobado</string>
+    <string name="result_format">Estudiante: %1$s\nPromedio: %2$s\nEstado: %3$s</string>
+    <string name="error_missing_fields">Por favor complete todos los campos correctamente</string>
+    <string name="error_invalid_grade">Las notas deben estar entre 0 y 10</string>
+    <string name="menu_student_average">Student Average</string>
+    <string name="menu_salary_deduction">Salary Deduction</string>
+    <string name="menu_calculator">Calculator</string>
+    <string name="salary_deduction_title">Cálculo de Deducciones</string>
+    <string name="calculator_title">Calculadora</string>
+    <string name="employee_name_hint">Nombre del empleado</string>
+    <string name="base_salary_hint">Salario base</string>
+    <string name="error_negative_salary">El salario debe ser mayor que cero</string>
+    <string name="result_format_salary_deduction">Empleado: %1$s\nRenta: %2$s\nAFP: %3$s\nISSS: %4$s\nSalario neto: %5$s</string>
+
+    <string name="number_1_hint">Número 1</string>
+    <string name="number_2_hint">Número 2</string>
+    <string name="op_sum">+</string>
+    <string name="op_sub">-</string>
+    <string name="op_mul">*</string>
+    <string name="op_div">/</string>
+    <string name="op_sqrt">√</string>
+    <string name="op_pow">^</string>
+    <string name="result_label">Resultado: %s</string>
+    <string name="error_division_zero">Error: División por cero</string>
+    <string name="error_negative_sqrt">Error: Raíz de número negativo</string>
+    <string name="error_invalid_input">Entrada inválida</string>
+</resources>
